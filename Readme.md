@@ -1,4 +1,4 @@
-# Gemini App Playground
+# Vertex AI Gemini Experiments
 
 ## Overview
 This is a demo application built using the Vertex AI Gemini API that showcases the power of generative AI. The app allows users to interact with both **Gemini 1.0 Pro** (for natural language tasks) and **Gemini 1.0 Pro Vision** (for multimodal tasks) models. 
