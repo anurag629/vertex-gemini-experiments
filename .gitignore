@@ -1,0 +1,10 @@
+# Igore env files
+.env
+.env.local
+
+# Ignore virtual environment
+venv/
+gemini-streamlit/
+
+# Ignore python cache
+__pycache__/
