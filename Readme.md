@@ -1,7 +1,3 @@
-Here’s a sample `README.md` file for the `Gemini-App-Playground` repository:
-
----
-
 # Gemini App Playground
 
 ## Overview
@@ -136,14 +132,3 @@ The application is deployed on **Google Cloud Run**, ensuring that it's scalable
    --platform=managed \
    --project=$PROJECT_ID
    ```
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-- [Google Cloud](https://cloud.google.com/) for the Vertex AI platform and SDK.
-- [Streamlit](https://streamlit.io/) for providing the framework to build the web application.
-
----
-
-You can modify the URLs, repository links, and project-specific details as needed!
