@@ -1,0 +1,8 @@
+#!/home/student_02_53c07477c9f5/gemini-app/gemini-streamlit/bin/python3
+# -*- coding: utf-8 -*-
+import re
+import sys
+from rsa.cli import keygen
+if __name__ == '__main__':
+    sys.argv[0] = re.sub(r'(-script\.pyw|\.exe)?$', '', sys.argv[0])
+    sys.exit(keygen())
